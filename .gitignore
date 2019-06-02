@@ -4,4 +4,8 @@
 target/
 .idea/
 .idea
+out.log
+Instruction.png
+JavaRushPlugin.properties
+JavaRushTasks.iml
 
