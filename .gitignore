@@ -8,5 +8,6 @@ out.log
 Instruction.png
 JavaRushPlugin.properties
 JavaRushTasks.iml
-out2
+*.iml
+Quest.info
 
