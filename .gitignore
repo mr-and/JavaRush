@@ -10,4 +10,5 @@ JavaRushPlugin.properties
 JavaRushTasks.iml
 *.iml
 Quest.info
-
+test.class
+test.java

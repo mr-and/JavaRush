@@ -1,8 +1,6 @@
 package com.javarush.task.task10.task1015;
 
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
 
 /* 
 Массив списков строк
@@ -15,6 +13,7 @@ public class Solution {
     }
 
     public static ArrayList<String>[] createList() {
+
         ArrayList<String>[] allList =  new ArrayList[2];
 
         ArrayList<String> list1 = new ArrayList<>();
